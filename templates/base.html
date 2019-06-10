@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru" >
+<head >
+    <style>
+   body {
+    background: #c7b39b url(https://memepedia.ru/wp-content/uploads/2019/04/124210-full.png) no-repeat 1000px 200px; /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+   }
+  </style>
+          <link rel = "icon" href =  
+"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nazi_swastika_clean.svg/424px-Nazi_swastika_clean.svg.png" 
+        type = "image/x-icon"> 
+  <meta charset="UTF-8" >
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  >
+  <link
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
+    integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M"
+    rel="stylesheet"
+    crossorigin="anonymous"
+  >
+  <title >
+
+    {% block title %}МиРэА{% endblock %}
+  </title>
+  <style>
+    .mymdb-masthead {
+      background-color: #EEEEEE;
+      margin-bottom: 1em;
+    }
+  </style>
+
+</head >
+<body >
+<div class="mymdb-masthead">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light ">
+    <div class="col">
+      <div class="navbar-brand">Преподаватели Мирэа</div>
+    </div>
+    <div class="col">
+      <a
+        class="nav-link"
+        href="{% url 'teacher_rating:existing_chair' %}"
+      >
+        Кафедры
+      </a>
+    </div>
+    <div class="col-6">
+      <form action="{% url 'teacher_rating:Search' %}" class="form-inline my-2 my-lg-0" method="get">
+          <div class="input-group">
+            <input id="search" name="q" type="text" class="form-control mr-sm-2 float-right mr-auto" placeholder="Поиск">
+            <span class="input-group-btn">
+              <button type="submit" class="btn btn-outline-info"> Поиск </button>
+            </span>
+        </div>
+      </form>
+    </div>
+    
+        <p>
+        {% if not user.pk  %}
+        <div class="col-4">
+            <a href="{% url 'user:login' %}">Войти/ </a>
+            <a href="{% url 'user:register' %}">Зарегестрироваться</a>
+          </div>
+        {% else %}
+        <div class="col">
+          <a href="{% url 'user:login' %}"> {{user.username}} </a>
+          <a href="{% url 'user:logout' %}">Выйти</a>
+        </div>
+        {% endif %}
+      </p>
+    </nav>
+</div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-8 mymdb-main">
+     {% block main %}
+
+     {% endblock %}
+    </div>
+    <div
+        class="col-sm-3 offset-sm-1 mymdb-sidebar"
+    >
+      {% block sidebar %}{% endblock %}
+    </div>
+  </div>
+</div>
+
+</body >
+</html >

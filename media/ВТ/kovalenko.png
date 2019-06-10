@@ -1,0 +1,1302 @@
+
+<html lang="ru">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Институт Информационных технологий МИРЭА - Российский технологический университет</title>
+	<meta name='yandex-verification' content='671f3b04a8af2701' />
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=latin,cyrillic,cyrillic-ext' rel='stylesheet' type='text/css'>
+    <!--[if lt IE 9]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script><![endif]-->
+    <!--[if lt IE 9]>
+    	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Официальный сайт Института Информационных технологий - МИРЭА - Российского технологического университета." />
+<link href="/bitrix/cache/css/it/it/kernel_main/kernel_main_v1.css?154893814919041" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/it/it/page_ffd71d18d8f0d0384b79d36820673a58/page_ffd71d18d8f0d0384b79d36820673a58_v1.css?1548940415265" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/it/it/template_a206fd7134a96e810572cade004f09ac/template_a206fd7134a96e810572cade004f09ac_v1.css?1548938149173578" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'it','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1557477980','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'fcadc9587034722a772b4e7fdee55b09'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/it/it/kernel_main/kernel_main_v1.js?1548938149172904"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/it/it/kernel_main_polyfill_promise/kernel_main_polyfill_promise_v1.js?15489380732506"></script>
+<script type="text/javascript" src="/bitrix/js/main/loadext/loadext.min.js?1541607635810"></script>
+<script type="text/javascript" src="/bitrix/js/main/loadext/extension.min.js?15416076351304"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.min.js?152770745510247"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?153592421711334"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/templates/it/js/jquery/jquery-1.11.2.min.js','/bitrix/templates/it/js/jquery/jquery-migrate-1.2.1.min.js','/bitrix/templates/it/js/fotorama.js','/bitrix/templates/it/uikit/js/uikit.min.js','/bitrix/templates/it/uikit/js/components/form-password.min.js','/bitrix/templates/it/uikit/js/components/search.min.js','/bitrix/templates/it/uikit/js/components/slideshow.min.js','/bitrix/templates/it/uikit/js/components/accordion.min.js','/bitrix/templates/it/uikit/js/components/grid.min.js','/bitrix/templates/it/uikit/js/components/lightbox.js','/bitrix/templates/it/js/script.js','/bitrix/templates/.default/components/bitrix/search.suggest.input/.default/script.js','/bitrix/templates/it/components/mirea/menu/left/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/components/bitrix/system.show_message/templates/.default/style.css','/bitrix/templates/it/css/main-embedded.css','/bitrix/templates/it/css/fotorama.css','/bitrix/templates/it/uikit/css/uikit.almost-flat.min.css','/bitrix/templates/it/uikit/css/components/form-password.almost-flat.min.css','/bitrix/templates/it/uikit/css/components/form-advanced.almost-flat.min.css','/bitrix/templates/it/uikit/css/components/search.almost-flat.min.css','/bitrix/templates/it/uikit/css/components/slideshow.almost-flat.min.css','/bitrix/templates/it/uikit/css/components/accordion.almost-flat.min.css','/bitrix/templates/.default/components/bitrix/search.suggest.input/.default/style.css','/bitrix/templates/it/components/mirea/menu/left/style.css','/bitrix/templates/.default/components/bitrix/search.suggest.input/mobile/style.css','/bitrix/templates/it/styles.css','/bitrix/templates/it/template_styles.css']); </script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/it/it/template_5bcf2faf397dd07adc9649440badc336/template_5bcf2faf397dd07adc9649440badc336_v1.js?1548938073303205"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "faba83294d704261f31b130b9da1bd4d"]); _ba.push(["host", "it.mirea.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+    <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1024097697639385');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1024097697639385&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12574767-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+<div id="panel"></div>
+<div id="page-wrapper">
+	<div class="header uk-hidden-large">
+		<div class="header_inner uk-container uk-container-center">
+
+            <div class="uk-grid ">
+                <div class="uk-width-1-1 uk-text-center uk-align-center uk-hidden-small"><div class="uk-panel uk-panel-box uk-panel-box-secondary">
+	                <div class="uk-h2">
+						<a target="_blank" href="https://www.mirea.ru/">
+							МИРЭА - Российский технологический университет
+						</a>
+						<a href="/">
+							<div class="uk-margin-top">ИНСТИТУТ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ</div>
+						</a>
+					</div>
+                </div></div>
+                <div class="uk-width-1-1 uk-text-center uk-align-center uk-visible-small"><div class="uk-panel uk-panel-box uk-panel-box-secondary">
+	                <div class="uk-h3">
+						<a target="_blank" href="https://www.mirea.ru/">
+							МИРЭА - Российский технологический университет
+						</a>
+						<a href="/">
+							<div class="uk-margin-top">ИНСТИТУТ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ</div>
+						</a>
+					</div>
+                </div></div>
+            </div>
+
+            <nav class="uk-navbar">
+	            <div class="uk-hidden-small">
+		            <button class="uk-button uk-navbar-toggle uk-navbar-toggle-custom" href="" data-uk-offcanvas="{target:'#offcanvas-mobile_menu'}">
+		            	<span class="uk-navbar-toggle-custom-text"> Меню</span>
+		            </button>
+				</div>
+	            <div class="uk-visible-small">
+		            <a class="uk-navbar-toggle" href="" data-uk-offcanvas="{target:'#offcanvas-mobile_menu'}"></a>
+		        </div>
+
+	            <div class="uk-navbar-flip">
+	                <div class="uk-hidden-small">
+		                <button class="uk-button uk-button-primary uk-navbar-toggle uk-navbar-toggle-alt uk-navbar-toggle-alt-custom login_show uk-navbar-flip" data-uk-modal="{target:'#modal_login_form'}">
+		                	<span class="icon-user-1"></span> Войти
+						</button>
+					</div>
+
+	                <div class="uk-visible-small">
+		                <button class="uk-button uk-button-primary uk-navbar-toggle uk-navbar-toggle-alt uk-navbar-toggle-alt-custom login_show uk-navbar-flip" data-uk-modal="{target:'#modal_login_form'}">
+		                	<span class="icon-user-1"></span>
+						</button>
+					</div>
+	            </div>
+
+	            <div class="uk-navbar-content uk-navbar-center" style="max-width: none;"><a target="_blank" href="https://www.mirea.ru/education/schedule-main/schedule/"><strong>Расписание занятий</strong></a></div>
+	        </nav>
+		</div>
+	</div>
+	<div class="header uk-visible-large header_bg">
+		<div class="header_inner uk-container uk-container-center uk-clearfix">
+			<div class="uk-width-1-1" style="height: 120px;">
+				<div class="uk-float-right">
+					<div class="">
+						<div class="">
+							<div class="header_search">
+								<div class="search-form">
+<form action="/search/index.php">
+	<input class="search_buttom" type="submit" value="" />
+	<script type="text/javascript">
+if (!window.oObject || typeof oObject != "object")
+	window.oObject = {};
+
+window.qplSKIW_CheckThis = document.qplSKIW_CheckThis = function(oObj)
+{
+	try
+	{
+		if(SuggestLoaded)
+		{
+			if (typeof window.oObject[oObj.id] != 'object')
+				window.oObject[oObj.id] = new JsSuggest(oObj, 'pe:10,md5:,site:it');
+			return;
+		}
+		else
+		{
+			setTimeout(qplSKIW_CheckThis(oObj), 10);
+		}
+	}
+	catch(e)
+	{
+		setTimeout(qplSKIW_CheckThis(oObj), 10);
+	}
+}
+</script>
+<IFRAME style="width:0px; height:0px; border: 0px;" src="javascript:''" name="qplSKIW_div_frame" id="qplSKIW_div_frame"></IFRAME><input  size="31" name="q" id="qplSKIW" value="" class="search-suggest" placeholder="Поиск" type="text" autocomplete="off" onfocus="qplSKIW_CheckThis(this);" /></form>
+</div>							</div>
+						</div>
+						<div class="uk-clearfix">
+							<button class="uk-button login_show uk-navbar-flip uk-float-right" data-uk-modal="{target:'#modal_login_form'}"><i class="icon-user-1"></i> Войти</button>
+							<div style="margin: 6px 20px 0px 0px;" class="uk-float-right"><a href="/map/"><img src="/bitrix/templates/it/images/tree.png"></a></div>
+						</div>
+						<div class="uk-width-1-1">
+							<a target="_blank" href="https://www.mirea.ru/education/schedule-main/schedule/" class="uk-button login_show uk-navbar-flip"><i class="icon-calendar"></i> Расписание</a>
+							<div style="margin: 10px 130px 0px 0px; min-width: 180px; color: #fff; line-height: 30px;" class="">
+								<b>10 мая</b>, идет -16-я неделя							</div>
+						</div>
+					</div>
+				</div>
+                <div class="uk-vertical-align">
+	                <div class="uk-vertical-align-middle uk-panel">
+						<a target="_blank" href="https://www.mirea.ru/">
+
+															<div class="header_slogan_h1_small" style="margin: 0 0 15px;">
+														МИРЭА - Российский технологический университет
+															</div>
+													</a>
+						<a href="/">
+															<div class="header_slogan_h1_small">
+														ИНСТИТУТ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ
+															</div>
+													</a>
+					</div>
+                </div>
+            </div>
+			<div class="clear"></div>
+		</div>
+	</div>
+
+	<div class="middle uk-clearfix uk-margin">
+		<div class="middle_inner uk-container uk-container-center">
+<div class="uk-grid uk-grid-match" data-uk-grid-match="{target:'.uk-panel'}" data-uk-grid-margin>
+	<div class="uk-width-large-1-4 uk-visible-large">
+		<div class="uk-panel col2_right">
+			<div class="col2_right_conteiner">
+				<div class="col2_right_conteiner_item">
+					
+
+<div class="menu-left">
+	<ul class="menu-left-main-ul">
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/about/">
+													Об институте</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/regulatory-documentation/">
+													Нормативная документация</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/the-leadership-institute/">
+													Руководство института</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/dean/">
+													Учебный отдел</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/the-scientific-council/">
+													Ученый совет</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+					
+				<li class="folder_li close">
+					<div class="folder icon- "  onClick="OpenMenuNode(this)"></div>
+					<div class="item-text"><a class="" href="/department/">Кафедры</a></div>
+					<div class="clear"></div>
+					<ul>
+			
+			
+	
+
+	
+			
+
+			
+					
+				<li class="folder_li close">
+					<div class="folder icon- "  onClick="OpenMenuNode(this)"></div>
+					<div class="item-text"><a class="" href="/department/internal-department/">Внутренние кафедры</a></div>
+					<div class="clear"></div>
+					<ul>
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/internal-department/department-of-computer-engineering-ce/">
+													Кафедра вычислительной техники (ВТ)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/internal-department/department-of-tool-and-application-software-iops/">
+													Кафедра инструментального и прикладного программного обеспечения (ИППО)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/internal-department/the-department-of-corporate-information-systems-cis/">
+													Кафедра корпоративных информационных систем (КИС)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/internal-department/department-of-mathematical-software-and-standardization-of-information-technology-mossite/">
+													Кафедра математического обеспечения и стандартизации информационных технологий (МОСИТ)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/internal-department/the-department-of-practical-and-applied-computer-science-pip/">
+													Кафедра практической и прикладной информатики (ППИ)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/internal-department/the-department-of-applied-mathematics-pm/">
+													Кафедра прикладной математики (ПМ)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/internal-department/the-department-of-industrial-informatics-pi/">
+													Кафедра промышленной информатики (ПИ)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+					</ul></li>			
+					
+				<li class="folder_li close">
+					<div class="folder icon- "  onClick="OpenMenuNode(this)"></div>
+					<div class="item-text"><a class="" href="/department/the-base-of-the-chair/">Базовые кафедры</a></div>
+					<div class="clear"></div>
+					<ul>
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/department-of-information-processes-and-systems-b-no-231/">
+													Кафедра информационных процессов и систем (б/к № 231)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/the-department-of-computing-real-time-systems-b-no-232/">
+													Кафедра вычислительных систем реального времени (б/к № 232)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/department-managers-computing-machinery-b-no-234/">
+													Кафедра управляющих электронно-вычислительных машин (б/к № 234)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/department-of-high-performance-computing-b-no-238/">
+													Кафедра высокопроизводительных вычислительных систем (б/к № 238)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/department-of-automated-systems-of-organizational-management-b-no-239/">
+													Кафедра автоматизированных систем организационного управления (б/к № 239)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/department-of-information-technologies-in-control-systems-b-no-244/">
+													Кафедра информационных технологий в системах управления (б/к № 244)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/the-department-of-space-information-systems-b-no-248/">
+													Кафедра космических информационных систем (б/к № 248)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/department-of-software-and-information-systems-b-no-250-/">
+													Кафедра математического обеспечения информационных систем (б/к № 250) </a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/department-of-computer-systems-b-no-254/">
+													Кафедра вычислительных комплексов (б/к № 254)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="page_li">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/department/the-base-of-the-chair/the-department-of-medical-information-systems-b-no-256/">
+													Кафедра медицинских информационных систем (б/к № 256)</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+					</ul></li></ul></li>			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/enterprise-partners/">
+													Предприятия-партнеры</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/the-learning-process/">
+													Учебный процесс</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="targetblank " href="/applicants/">
+													Абитуриентам</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/undergraduates/">
+													Магистрантам</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/postgraduate/">
+													Аспирантура</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/graduates/">
+													Выпускники</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/dissertation-tips/">
+													Диссертационные советы</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+	
+			
+
+			
+			
+								<li class="">
+						<div class="page"></div>
+						<div class="item-text">
+													<a class="" href="/contacts/">
+													Контакты</a>
+						</div>
+						<div class="clear"></div>
+					</li>
+				
+			
+			
+	
+
+
+</ul>
+</div>
+				</div>
+				<div class="uk-panel uk-text-center events_button">
+		 			<div class="uk-hidden-small">	
+			 			<a href="https://www.mirea.ru/ask/" target="_blank" class="uk-button uk-button-primary uk-width-1-1 uk-margin-bottom"><i class="icon-comment-empty uk-icon-small"></i> Задать вопрос</a>
+		 			</div>
+	 			</div>
+			</div>
+		</div>
+	</div>
+    <div class="uk-width-1-1 uk-width-large-3-4">
+		<div class="uk-panel col2_left col2_left_allpages">
+			<div class="uk-grid uk-hidden-small">
+			    <div class="uk-width-1-1" style="margin-top: 15px;">
+					<ul class="breadcrumb-navigation uk-breadcrumb"><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/" title="Главная"><span class="icon-home" itemprop="title"></span></a></li></ul>			    </div>
+			</div>
+			<div class="uk-grid">
+				<div class="uk-width-medium-1-1">
+					<h1 class="uk-h2">МИРЭА</h1>
+		
+								
+
+<p><font class="errortext">Элемент не найден</font></p>							</div>
+						</div>
+					</div>
+				</div>
+			</div>	
+			<div class="uk-visible-small">
+				<hr class="uk-grid-divider">
+			    <div class="uk-width-1-1">
+					<ul class="breadcrumb-navigation uk-breadcrumb"><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/" title="Главная"><span class="icon-home" itemprop="title"></span></a></li></ul>			    </div>
+			</div>    						     
+		</div>
+	</div>
+</div>
+
+<div class="footer">
+	<div class="footer_inner uk-container uk-container-center uk-text-center">
+	    <div class="uk-panel">
+	        <p>© 2019 МИРЭА - Российский технологический университет</p>   
+	    </div>
+	    <div class="uk-panel uk-container" style="color: #666; font-size: 12px; margin-top: 15px;">Если вы нашли ошибку в тексте, выделите её мышкой и нажмите Ctrl + Enter</div>
+	</div>
+</div>
+<div id="modal_login_form" class="uk-modal">
+    <div class="uk-modal-dialog">
+        <a href="" class="uk-modal-close uk-close"></a>
+		<!-- noindex --> 
+		<ul class="uk-tab" data-uk-tab="{connect:'#tab-content-logos-form'}">
+		    <li class="uk-active"><a href="#">Почта</a></li>
+		    <li><a href="#">Конференция</a></li>
+		</ul>
+		
+		<ul id="tab-content-logos-form" class="uk-switcher uk-margin">
+		    <li class="uk-active">
+		    
+				<form class="uk-form uk-width-1-1" method="post" action="https://mail.mirea.ru/index.php">
+				    <fieldset>
+				        <legend>Вход в почту</legend>
+				        <div class="uk-form-row">
+				            <input type="hidden" name="_action" value="login">
+				            <input type="hidden" name="_task" value="login">
+				            <input type="hidden" name="_autologin" value="1">
+				            <input type="text" class="uk-form-width-medium" placeholder="E-mail" id="rcmloginuser" name="_user" value="@mirea.ru">
+				        </div>
+				        <div class="uk-form-row uk-form-password">
+				            <input type="password" class="uk-form-width-medium" placeholder="Пароль" id="rcmloginpwd" name="_pass">
+				            <a href="" class="uk-form-password-toggle" data-uk-form-password><i class="icon-eye"></i></a>
+				        </div>
+				        <div class="uk-form-row">
+				            <button type="submit" value="Войти" unselectable="on" onclick="jQuery('.mail form').submit();" class="uk-button">Войти</button>
+				        </div>
+				    </fieldset>
+				</form>
+		
+		    </li>
+		    <li>
+		    
+		        <legend>Перейти в виртуальный конференц-зал</legend>
+	
+		        <div class="uk-form-row">
+		        	
+		        </div>
+		        <div class="uk-form-row">
+		            <a href="https://webinars.mirea.ru/" target="_blank" class="uk-button">Перейти</a>
+		        </div>
+	
+		    </li>
+		</ul>
+		<!-- /noindex -->
+    </div>
+</div>
+<div id="offcanvas-mobile_menu" class="uk-offcanvas">
+	<div class="uk-offcanvas-bar">
+
+<!-- noindex --> 
+
+
+<form class="uk-search" action="/search/index.php">
+	<script>
+	BX.ready(function(){
+		var input = BX("qT1YQ8m");
+		if (input)
+			new JsSuggest(input, 'pe:10,md5:,site:it');
+	});
+</script>
+<input
+			size="15"
+		name="q"
+	id="qT1YQ8m"
+	value=""
+	class="search-suggest uk-search-field"
+	type="search"
+	autocomplete="off"
+	placeholder="Поиск"
+/>
+<IFRAME
+	style="width:0px; height:0px; border: 0px;"
+	src="javascript:''"
+	name="qT1YQ8m_div_frame"
+	id="qT1YQ8m_div_frame"
+></IFRAME></form>
+<!-- /noindex -->
+
+
+
+<ul class="uk-nav uk-nav-offcanvas uk-nav-parent-icon" data-uk-nav="{multiple:true}">
+
+
+	
+			
+		
+				
+															<li ><a href="/about/">Об институте</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/regulatory-documentation/">Нормативная документация</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/the-leadership-institute/">Руководство института</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/dean/">Учебный отдел</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/the-scientific-council/">Ученый совет</a>
+										
+					
+		
+	
+	
+
+	
+			
+									<li class=" uk-parent"><a href="#">Кафедры</a>
+							<ul class="uk-nav-sub">
+		
+	
+	
+
+	
+			
+					<li class=" uk-parent"><a href="/department/internal-department/">Внутренние кафедры</a>
+				<ul>
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/internal-department/department-of-computer-engineering-ce/">Кафедра вычислительной техники (ВТ)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/internal-department/department-of-tool-and-application-software-iops/">Кафедра инструментального и прикладного программного обеспечения (ИППО)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/internal-department/the-department-of-corporate-information-systems-cis/">Кафедра корпоративных информационных систем (КИС)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/internal-department/department-of-mathematical-software-and-standardization-of-information-technology-mossite/">Кафедра математического обеспечения и стандартизации информационных технологий (МОСИТ)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/internal-department/the-department-of-practical-and-applied-computer-science-pip/">Кафедра практической и прикладной информатики (ППИ)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/internal-department/the-department-of-applied-mathematics-pm/">Кафедра прикладной математики (ПМ)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/internal-department/the-department-of-industrial-informatics-pi/">Кафедра промышленной информатики (ПИ)</a></li>
+					
+					
+		
+	
+	
+
+			</ul></li>	
+			
+					<li class=" uk-parent"><a href="/department/the-base-of-the-chair/">Базовые кафедры</a>
+				<ul>
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/department-of-information-processes-and-systems-b-no-231/">Кафедра информационных процессов и систем (б/к № 231)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/the-department-of-computing-real-time-systems-b-no-232/">Кафедра вычислительных систем реального времени (б/к № 232)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/department-managers-computing-machinery-b-no-234/">Кафедра управляющих электронно-вычислительных машин (б/к № 234)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/department-of-high-performance-computing-b-no-238/">Кафедра высокопроизводительных вычислительных систем (б/к № 238)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/department-of-automated-systems-of-organizational-management-b-no-239/">Кафедра автоматизированных систем организационного управления (б/к № 239)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/department-of-information-technologies-in-control-systems-b-no-244/">Кафедра информационных технологий в системах управления (б/к № 244)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/the-department-of-space-information-systems-b-no-248/">Кафедра космических информационных систем (б/к № 248)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/department-of-software-and-information-systems-b-no-250-/">Кафедра математического обеспечения информационных систем (б/к № 250) </a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/department-of-computer-systems-b-no-254/">Кафедра вычислительных комплексов (б/к № 254)</a></li>
+					
+					
+		
+	
+	
+
+	
+			
+		
+				
+									<li ><a href="/department/the-base-of-the-chair/the-department-of-medical-information-systems-b-no-256/">Кафедра медицинских информационных систем (б/к № 256)</a></li>
+					
+					
+		
+	
+	
+
+			</ul></li></ul></li>	
+			
+		
+				
+															<li ><a href="/enterprise-partners/">Предприятия-партнеры</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/the-learning-process/">Учебный процесс</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/applicants/">Абитуриентам</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/undergraduates/">Магистрантам</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/postgraduate/">Аспирантура</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/graduates/">Выпускники</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/dissertation-tips/">Диссертационные советы</a>
+										
+					
+		
+	
+	
+
+	
+			
+		
+				
+															<li ><a href="/contacts/">Контакты</a>
+										
+					
+		
+	
+	
+
+
+</ul>
+
+
+		<ul class="uk-nav uk-nav-offcanvas uk-nav-parent-icon" style="margin-top: 50px;">
+		    <li class="uk-nav-divider"></li>
+		    <li><a href="https://www.mirea.ru/ask/"><i class="icon-comment-empty"></i> Задать вопрос</a></li>
+		    <li><a href="http://app.mirea.ru"><i class="icon-mobile"></i> Мобильные приложения</a></li>
+		    <li><a href="https://www.mirea.ru/about/information-about-mirea/"><i class="icon-info-circled"></i> Сведения об образовательной организации</a></li>
+		</ul>
+	</div>
+</div>
+<script type="text/javascript" src="/bitrix/templates/mirea/js/orphus.js"></script>
+<noindex><div style="display: none;"><a rel="nofollow" href="http://orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="/images/blank.gif" border="0" width="125" height="115" /></a></div></noindex>
+
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31544813 = new Ya.Metrika({ id:31544813, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31544813" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=FlKyybX7/4aYs5qlP83RyiXeoF*HGQRVOWA5IGZJRbZ4vNCRD7nKGyjEzFzcg8cPmdr8PWUf94FoH1WYp73eagRLrdZoj3DwZUW9UUagv/GwxHA9YVnzuLug5kti8CO8AazpNCVz4ZIk2Jb3VRcKYdW4bm5iUDrXfjEqEhcUxG0-';</script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = '7cLrd4rY15';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+</body>
+</html>
+
+
+
+

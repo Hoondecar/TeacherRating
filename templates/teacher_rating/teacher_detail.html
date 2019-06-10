@@ -1,0 +1,87 @@
+{% extends 'base.html' %}
+
+{% block title %}
+	{{object.lastname}} 
+{% endblock %}
+
+{% block main %}
+	<div>
+		<h1> {{object}} </h1>
+		{% load static %}
+		<p class="lead">
+			Должность:
+				{{object.post}}
+		</p>
+		<div class="row">
+		<div class="col">
+			<img src="{{object.picture.url}}" width="203" height="264">
+		</div>
+		<div class="col-8">
+			{{object.desription}}
+		</div>
+	</div>
+	</div>
+	<!--<ul class="teacher-image list-inline">
+		{% for i in object.teacherimage_set.all %}
+			<li class="list-inline-item">
+				<img src="{{ i.image.url }}">
+			</li>
+		{% endfor %}
+	</ul>-->
+<hr>
+<h3>Комментарии</h3>
+{% if user.is_authenticated or comment.approved_comment %}
+<a type="button" class="btn btn-secondary" href="{% url 'teacher_rating:add_comment' pk=teacher.pk   %}">Добавить комментарий</a>
+{% endif %}
+<hr>
+
+{% for comment in comments %}
+	{% if comment.user_id.id in vote %}
+		<div class="comment">
+			{% for key, value in vote.items %}
+				{% if key == comment.user_id.id %}
+					<strong>Пользователь:  {{ comment.user_id }}.  Поставленная оценка: {{value}}   </strong>
+				{% endif %}
+			{% endfor %}
+			<p>{{ comment.text}}</p>
+			<div class="date">{{comment.created_date|linebreaks }}</div>
+		</div>
+	{% else %}
+		<div class="comment">
+			<strong>Пользователь:  {{ comment.user_id }} - Оценка не поставлена   </strong>
+			<p>{{ comment.text}}</p>
+			<div class="date">{{comment.created_date|linebreaks }}</div>
+		</div>
+	{% endif %}
+
+	 
+{%empty%}
+	<p>Пока здесь пусто. Добавьте свой комментарий</p>
+
+{% endfor %}
+
+
+{%endblock%}
+
+{% block sidebar %}
+{#rating div omitteed#}
+	<div>
+		<h2>
+			Средняя оценка:{{ object.score|default_if_none:"Нет оценки" }}
+		</h2>
+	</div>
+	<div>
+		{% if vote_form %}
+			<form method="post"
+					action="{{ vote_form_url }}">
+				{% csrf_token %}
+				{{ vote_form.as_p }}
+				<button class="btn btn-primary">
+					Проголосовать
+				</button>
+			</form>
+		{% else %}
+			<p> Войдите чтобы проголосовать</p>
+		{%endif%}
+	</div>
+{%endblock%}

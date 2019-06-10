@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{block.super}}
+{% endblock %}
+
+{% block main %}
+<ul>
+
+	<h2>Кафедры</h2>
+	{% for chair in chairs %}
+		<h3><ol><a href="{% url 'teacher_rating:by_chair' chair.id %}">{{chair.title}}</a></ol></h3>
+	{% endfor %}
+{%endblock%}
+
+</ul>
+{% block sidebar %}
+{%endblock%}

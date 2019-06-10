@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block title %}
+	Кафедры
+{% endblock %}
+
+{% block main %}
+<div class="container">
+	<h2> Кафедра - {{current_chair.title}}   </h2> 
+	<div class="row">
+		<div class="col">
+			<p class="lead"> Кафедры </p>
+		</div>
+		<div class="col">
+			<p class="lead"> Преподаватели </p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<ul>
+				{%for chair in chairs%}
+						<ol><a href="{% url 'teacher_rating:by_chair' chair.id %}">{{chair.title}}</a></ol>
+				{% endfor %}
+
+			</ul>
+		</div>
+		<div class="col">
+				{% for teacher in teachers %}
+				<ol>
+					<a href="{% url 'teacher_rating:teacher_detail' teacher.id %}"> {{teacher}} </a>
+				</ol>
+	{% endfor %}
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+{%endblock%}

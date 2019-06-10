@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block main %}
+    <h1>Поиск</h1>
+    {% if teacher_lists %}
+        {% for teacher in teacher_lists %}
+            <article>
+                <a href="{% url 'teacher_rating:teacher_detail' teacher.id %}">
+                    <h2>{{ teacher }}</h2>
+                </a>
+            </article>
+        {% endfor %}
+        
+    {% else %}
+        <p>Не найдено преподавателей по вашему запросу<br>Попробуйте повторить запрос с другой формулировкой</p>
+    {% endif %}
+{% endblock %}
